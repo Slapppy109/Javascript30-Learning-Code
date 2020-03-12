@@ -3,11 +3,11 @@
 # JavaScript30
 
 Starter Files + Completed solutions for the JavaScript 30 Day Challenge.
-Personal Starter Code used to learn JS (Kevin Le)
 
 Grab the course at [https://JavaScript30.com](https://JavaScript30.com)
 
 ## Community #JavaScript30 Content
+Personal Starter Code used to learn JS (Kevin Le)
 
 Feel free to submit a PR adding a link to your own recaps, guides or reviews!
 
